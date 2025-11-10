@@ -1,0 +1,24 @@
+
+{
+  "languages": ["en","es","fr"],
+  "topics": {
+    "meteorological": {
+      "keywords": {
+        "en": ["weather","climate","temperature"],
+        "es": ["clima","temperatura"],
+        "fr": ["météo","température"]
+      },
+      "description": {
+        "en": "Environmental and meteorological AI models",
+        "es": "Modelos de IA para meteorología",
+        "fr": "Modèles IA pour la météorologie"
+      },
+      "weight": 1.5,
+      "links": {
+        "en": "https://github.com/pacobaco/flyometer",
+        "es": "https://github.com/pacobaco/flyometer#es",
+        "fr": "https://github.com/pacobaco/flyometer#fr"
+      }
+    }
+  }
+}

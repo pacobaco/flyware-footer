@@ -1,0 +1,5 @@
+
+[
+  {"name":"gpt-4","provider":"OpenAI","type":"LLM","description":"General-purpose LLM"},
+  {"name":"llama-2-7b","provider":"Meta","type":"LLM","description":"General-purpose 7B model"}
+]
